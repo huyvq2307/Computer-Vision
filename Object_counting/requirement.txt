@@ -1,0 +1,9 @@
+requests
+torch
+torchvision
+ultralytics
+Pillow
+opencv-python
+numpy
+urllib3
+idna
