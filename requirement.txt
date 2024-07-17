@@ -1,0 +1,7 @@
+ipympl
+supervision==0.14.0
+numpy==1.23.5
+ultralytics
+-q loguru lap thop
+-q onemetric
+gdown==5.1.0
